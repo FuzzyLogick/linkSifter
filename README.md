@@ -13,3 +13,5 @@ This Python script was written by James Russell.
 
 Usage: ./linkSifter.py http://www.example.com
 
+
+Read more about it here: http://www.james-a-russell.com/blog/linksifter-py-the-simple-html-link-discovery-tool/
